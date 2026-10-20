@@ -223,10 +223,15 @@ const translations = {
     en: '<strong>Email:</strong> <a href="mailto:rumahanakyatimtambunan@gmail.com">rumahanakyatimtambunan@gmail.com</a>',
     ms: '<strong>E-mel:</strong> <a href="mailto:rumahanakyatimtambunan@gmail.com">rumahanakyatimtambunan@gmail.com</a>'
   },
+ 
   vg_phone: {
-    en: '<strong>Phone:</strong> <a href="tel:+6087774120">+6087-774 120</a>',
-    ms: '<strong>Telefon:</strong> <a href="tel:+6087774120">+6087-774 120</a>'
+    en: '<strong>Phone:</strong> <a href="tel:+601126774120">011-2677 4120</a>',
+    ms: '<strong>Telefon:</strong> <a href="tel:+601126774120">011-2677 4120</a>'
   },
+
+  reg_title: { en: "Form Registration", ms: "Borang Pendaftaran" },
+  reg_desc: { en: "Please fill up the entry form for registration.", ms: "Sila isi borang kemasukan untuk pendaftaran." },
+  reg_link: { en: "Download Registration Form Here", ms: "Muat Turun Borang Pendaftaran Di Sini" },
   map_title: { en: "Map Reference", ms: "Rujukan Peta" },
   map_p: { en: "Open Google Maps to search for Rumah Anak Yatim Tambunan, Sabah.", ms: "Buka Google Maps untuk mencari Rumah Anak Yatim Tambunan, Sabah." },
   map_link: { en: "View on Google Maps", ms: "Lihat di Google Maps" },
