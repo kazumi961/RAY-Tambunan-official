@@ -287,7 +287,7 @@ const translations = {
   dt_developer_phone: { en: "Phone", ms: "Telefon" },
   dt_developer_email: { en: "Email", ms: "E-mel" },
   dt_last_updated: { en: "Last Updated", ms: "Terkini Dikemaskini" },
-  dd_last_updated: { en: "06 July 2026", ms: "06 Julai 2026" },
+  dd_last_updated: { en: "20 Oct 2026", ms: "20 Oct 2026" },
   back_home: { en: "Back to Home", ms: "Kembali ke Laman Utama" }
 };
 
